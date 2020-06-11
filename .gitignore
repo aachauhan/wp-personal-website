@@ -3,3 +3,5 @@
 
 # WordPress
 wp-config.php
+
+docroot/wp-content/et-cache/*
