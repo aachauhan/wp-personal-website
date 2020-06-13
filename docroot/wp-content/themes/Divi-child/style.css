@@ -6,3 +6,6 @@
  Template:     divi
  Version:   1.0.0
 */
+.footer-widget div {
+    padding: 3%;
+}
